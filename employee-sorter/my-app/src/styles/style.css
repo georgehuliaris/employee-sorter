@@ -1,0 +1,28 @@
+.card {
+    display: inline;
+}
+
+.name {
+    display: inline;
+    padding-right:5%;
+}
+.col {
+    display: inline;
+    padding-left: 70px;
+}
+.photo {
+    padding-left: 40px;
+}
+.Name {
+    padding-left: 40px;
+}
+.mail {
+    padding-left:55px;
+}
+.gender {
+    padding-left: 50px;
+}
+
+* {
+    align-items: center;
+}
